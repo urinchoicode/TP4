@@ -56,3 +56,4 @@ class Noeud:
                 raise ValueError(f"Variable non définie: '{self.valeur}'")
 
         raise ValueError(f"Valeur de noeud inconnue: {self.valeur}")
+    # code bon 
